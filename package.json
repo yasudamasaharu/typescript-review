@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yasudamasaharu/typescript-review/issues"
   },
-  "homepage": "https://github.com/yasudamasaharu/typescript-review#readme"
+  "homepage": "https://github.com/yasudamasaharu/typescript-review#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
